@@ -1,0 +1,42 @@
+.AboutButton{
+    background-color: rgba(102, 102, 102, 0.397);
+    width: 25%;
+    margin-left: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.HomeButton{
+    background-color: rgba(102, 102, 102, 0.397);
+    width: 25%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+    color : white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.FavoritesButton{
+    background-color: rgba(102, 102, 102, 0.397);
+    width: 35%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+    color : white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.body{
+    background-color: rgba(102, 102, 102, 0.397);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr 0.5fr 0.5fr;
+}

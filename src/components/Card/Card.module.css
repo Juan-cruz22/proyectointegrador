@@ -1,0 +1,51 @@
+.buttonClose {
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.Carta{
+    background-color: rgb(197, 197, 197);
+    width: 15%;
+    height: 20%;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 0px 0px 10px black;
+    font-size: 10px;
+    
+}
+
+.iD{
+    font-size: 20px;
+    padding-bottom: 0%;
+    margin-top: 2%;
+    margin-bottom: -5%;
+}
+
+.detail{
+    font-size: 15px;
+}
+
+.status{
+    margin-top: -5%;
+}
+
+.species{
+    margin-top: -5%;
+}
+
+.gender{
+    margin-top: -5%;
+}
+
+.origin{
+    margin-top: -5%;
+}
+
+.image{
+    width: 100%;
+}

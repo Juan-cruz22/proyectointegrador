@@ -1,0 +1,29 @@
+.container{
+    background-color: rgba(131, 131, 131, 0.644);
+    display: inline-block;
+    width: 30%;
+    height: 300px;
+    align-items: center;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.Email{
+    margin-top: 20%;
+    font-size: 40%;
+}
+.inputEmail{
+    background-color: rgb(226, 226, 226);
+    font-size: 20px;
+}
+.impotPassword{
+    background-color: rgb(226, 226, 226);
+    font-size: 20px;
+}
+
+.Enviar{
+    background-color: rgb(147, 224, 145);
+    font-size: 20px;
+    width: 40%;
+    margin-top: 10%;
+}

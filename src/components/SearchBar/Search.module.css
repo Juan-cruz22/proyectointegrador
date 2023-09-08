@@ -1,0 +1,17 @@
+.Container{
+    width: 120%;
+}
+
+.Search{
+    width: 50%;
+    font-size: 150%;
+    margin-left: 10%;
+    background-color: rgba(185, 185, 185, 0.575);
+    text-align: center;
+}
+
+.Button{
+    background-color: rgba(216, 216, 216, 0.575);
+    margin-left: 5%;
+    font-size: 120%;
+}
